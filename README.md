@@ -2,6 +2,7 @@
 
 Create new Tampermonkey script 
 
+```
 // ==UserScript==
 // @name         CopyBlock-nograzie
 // @namespace    http://tampermonkey.net/
@@ -36,3 +37,4 @@ Create new Tampermonkey script
         Event.prototype.preventDefault = function(){};
     },1000);
 })();
+```
