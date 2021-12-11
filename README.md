@@ -1,0 +1,1 @@
+# youmath-anticopy-removal
